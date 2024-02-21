@@ -1,0 +1,107 @@
+.img1{
+  background-image: url(image1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  height:110vh;
+  background-position: center;
+  background-attachment: fixed;
+}
+ #one{
+  
+  position: relative;
+  left: 620px;
+  top: 450px;
+  font-size: 50px;
+  background-color: rgb(22, 21, 21);
+  color: white;
+  padding: 20px;
+  
+ }
+ .para1{
+  text-align: center;
+  padding: 0px 80px;
+  margin-left: 140px;
+  margin-right: 140px;
+  
+ }
+ #hone{
+  
+  position: relative;
+  margin-left: 640px;
+  color: gray;
+ }
+
+ .img2{
+  background-image: url(image2.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:500px;
+  background-attachment: fixed;
+}
+#two{
+  
+  position: relative;
+  left: 620px;
+  top: 200px;
+  font-size: 50px;
+
+  color: white;
+  padding: 20px;
+  
+ }
+  .twop{
+  
+  
+    text-align: center;
+    
+    background-color: rgb(22, 21, 21);
+   color: white;
+    display: block;
+    padding: 80px 80px;
+   
+
+  
+ 
+  
+  
+ }
+ .img3{
+  background-image: url(image3.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:550px;
+  background-attachment: fixed;
+ }
+ #three{
+  position: relative;
+  left: 450px;
+  top: 250px;
+  font-size: 70px;
+
+  color: white;
+  padding: 20px;
+
+ }
+ .img4{
+
+  background-image: url(image1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height:100vh;
+
+ }
+ #four{
+   
+  position: relative;
+  left: 550px;
+  top: 400px;
+  font-size: 50px;
+  background-color: rgb(22, 21, 21);
+  color: white;
+  padding: 20px;
+ }
+ 
+
